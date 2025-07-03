@@ -1,9 +1,9 @@
 # Supervision
 
-## 📂 Sujets abordés
+## 🛠️ Projets en vedette
 
-| N° | Sujet | Lien |
-|----|-------|------|
-| 04 | Nagios | [Supervision avec Nagios](https://github.com/0xCyberLiTech/Nagios) |
-| 05 | Zabbix | [Supervision avec Zabbix](https://github.com/0xCyberLiTech/Zabbix) |
-| 06 | Smokeping | [Latence réseau avec Smokeping](https://github.com/0xCyberLiTech/Smokeping) |
+| Projet           | Description                                                                                   | Accès rapide |
+|------------------|-----------------------------------------------------------------------------------------------|--------------|
+| `Zabbix`    | Supervision avec Nagios. | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/Nagios) |
+| `Nagios`   | Supervision avec Zabbix. | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/Zabbix) |
+| `Qmokeping`    | Supervision avec Smokeping. | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/Smokeping) |
