@@ -5,6 +5,14 @@
 </a>
 
 <p align="center">
+  <a href="https://zabbix.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/0xCyberLiTech/0xCyberLiTech/main/assets/zabbix-logo.svg" alt="Zabbix" width="70" height="70" style="margin: 10px;"></a>
+  <a href="https://www.nagios.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/0xCyberLiTech/0xCyberLiTech/main/assets/nagios-logo.svg" alt="Nagios" width="70" height="70" style="margin: 10px;"></a>
+  <a href="https://prometheus.io/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/0xCyberLiTech/0xCyberLiTech/main/assets/prometheus-logo.svg" alt="Prometheus" width="70" height="70" style="margin: 10px;"></a>
+  <a href="https://www.centreon.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/0xCyberLiTech/0xCyberLiTech/main/assets/centreon-logo.svg" alt="Centreon" width="70" height="70" style="margin: 10px;"></a>
+  <a href="https://oss.oetiker.ch/smokeping/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/0xCyberLiTech/0xCyberLiTech/main/assets/smokeping-logo.svg" alt="SmokePing" width="70" height="70" style="margin: 10px;"></a>
+</p>
+
+<p align="center">
   <em>Un dépôt pédagogique sur la supervision des infrastructures numériques.</em><br>
   <b>📊 Monitoring – 📈 Performance – ⚙️ Fiabilité</b>
 </p>
