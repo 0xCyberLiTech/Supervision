@@ -20,6 +20,16 @@ En d'autres termes, il s'agit de garder un œil constant sur la santé et le fon
 
 ---
 
+<h2 align="left">🎯 Projets en vedette.</h2>
+
+| Projet           | Description                                                                                   | Accès rapide |
+|------------------|-----------------------------------------------------------------------------------------------|--------------|
+| `Nagios`    | Supervision avec Nagios. | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/Nagios) |
+| `Zabbix`   | Supervision avec Zabbix. | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/Zabbix) |
+| `Qmokeping`    | Supervision avec Smokeping. | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/Smokeping) |
+
+---
+
 <h2 align="left">🎯 Objectifs de la supervision.</h2>
 
 La mise en place d'une supervision des infrastructures numériques répond à plusieurs objectifs cruciaux pour une entreprise :
@@ -55,16 +65,6 @@ Parmi les outils populaires, on retrouve des solutions comme :
 - `Centreon`
 - `PRTG Network Monitor`
 - `Prometheus`
-
----
-
-<h2 align="left">🎯 Projets en vedette.</h2>
-
-| Projet           | Description                                                                                   | Accès rapide |
-|------------------|-----------------------------------------------------------------------------------------------|--------------|
-| `Nagios`    | Supervision avec Nagios. | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/Nagios) |
-| `Zabbix`   | Supervision avec Zabbix. | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/Zabbix) |
-| `Qmokeping`    | Supervision avec Smokeping. | [📁 Explorer le dépôt](https://github.com/0xCyberLiTech/Smokeping) |
 
 ---
 
