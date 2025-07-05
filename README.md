@@ -56,6 +56,8 @@ Parmi les outils populaires, on retrouve des solutions comme :
 - `PRTG Network Monitor`
 - `Prometheus`
 
+---
+
 <h2 align="left">🎯 Projets en vedette.</h2>
 
 | Projet           | Description                                                                                   | Accès rapide |
