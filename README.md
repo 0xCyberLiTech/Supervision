@@ -35,7 +35,7 @@
 
 ---
 
-### 🚀 **Projets de Supervision**
+### 🚀 **Projets de Supervision.**
 
 <div align="center">
 
