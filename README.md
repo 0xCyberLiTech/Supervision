@@ -29,6 +29,12 @@
 
 ---
 
+### 🎯 **Objectif de ce dépôt.**
+
+> Ce dépôt a pour vocation de centraliser un ensemble de notions clés en cybersécurité. Il s’adresse aux passionnés, étudiants, et professionnels souhaitant mieux comprendre les menaces informatiques, apprendre à sécuriser leurs environnements et se familiariser avec les concepts et outils de défense.
+
+---
+
 ### 💡 **Qu'est-ce que la Supervision ?**
 
 > La **supervision des infrastructures numériques**, ou **monitoring informatique**, est un processus essentiel qui consiste à surveiller, analyser et gérer en continu l'ensemble des composants d'un système d'information. L'objectif principal est de garantir leur **disponibilité**, leur **performance** et leur **sécurité**, en gardant un œil constant sur la santé de l'environnement numérique (serveurs, applications, réseaux, etc.).
