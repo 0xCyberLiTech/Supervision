@@ -49,7 +49,7 @@
 
 ---
 
-### 🎯 **Objectifs de la Supervision**
+### 🎯 **Objectifs de la Supervision.**
 
 > * **Assurer la continuité de service :** Prévenir les pannes et minimiser les interruptions.
 > * **Optimiser les performances :** Identifier les goulots d'étranglement et optimiser les ressources.
@@ -59,7 +59,7 @@
 
 ---
 
-### 🧩 **Composants Clés Supervisés**
+### 🧩 **Composants Clés Supervisés.**
 
 > * **Réseau :** Switches, routeurs, firewalls, connectivité, latence, et débit.
 > * **Serveurs :** Utilisation du CPU, de la RAM, de l'espace disque et état général (physique ou virtuel).
@@ -69,7 +69,7 @@
 
 ---
 
-### 🛠️ **Outils de Supervision Populaires**
+### 🛠️ **Outils de Supervision Populaires.**
 
 > Pour mener à bien ces tâches, les équipes s'appuient sur des logiciels spécialisés qui permettent de centraliser les données, de visualiser l'état de l'infrastructure via des tableaux de bord et de configurer des alertes. Parmi les plus connus, on retrouve :
 > * `Zabbix`
