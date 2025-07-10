@@ -64,7 +64,7 @@ Légende des couleurs des boutons :
 
 | Projet | Description | Accès Rapide |
 |:---:|:---|:---:|
-| **Nagios** | Tutoriels et configurations pour la supervision avec Nagios. | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Nagios) |
+| **Nagios** | Tutoriels et configurations pour la supervision avec Nagios. | [<img src="https://img.shields.io/badge/EXPLORER-orange?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Nagios) |
 | **Zabbix** | Tutoriels et configurations pour la supervision avec Zabbix. | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Zabbix) |
 | **Smokeping** | Tutoriels et configurations pour la supervision avec Smokeping. | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Smokeping) |
 
