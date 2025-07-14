@@ -13,6 +13,10 @@
 
 ---
 
+![Dernière version](https://img.shields.io/github/v/release/0xCyberLiTech/SUPERVISION?style=flat-square&color=blue)
+
+---
+
 ### 👨‍💻 **À propos de moi.**
 
 > Ce dépôt constitue mon laboratoire numérique où je consigne rigoureusement mes apprentissages et expérimentations. Passionné par l'écosystème Linux > et la cybersécurité, je
