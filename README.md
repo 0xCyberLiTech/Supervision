@@ -4,17 +4,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=D14A4A&center=true&vCenter=true&width=650&lines=SUPERVISION+D'INFRASTRUCTURES;Monitorer+•+Analyser+•+Gérer;Zabbix+•+Nagios+•+Prometheus" alt="Typing SVG" />
 </a>
 
+<p align="center">
+  <em>Un dépôt pédagogique sur la supervision des infrastructures numériques.</em><br>
+  <b>📊 Monitoring – 📈 Performance – ⚙️ Fiabilité</b>
+</p>
+
 [![Dernière version](https://img.shields.io/github/v/release/0xCyberLiTech/SUPERVISION?style=flat-square&color=blue)](https://github.com/0xCyberLiTech/SUPERVISION/releases/latest)
 ![Debian 12](https://img.shields.io/badge/OS-Debian%2012-red?style=flat-square)
 ![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square)
 ![Maintenance](https://img.shields.io/badge/statut-maintenu-brightgreen?style=flat-square)
 ![Licence](https://img.shields.io/github/license/0xCyberLiTech/SUPERVISION?style=flat-square&color=green)
 
-
-<p align="center">
-  <em>Un dépôt pédagogique sur la supervision des infrastructures numériques.</em><br>
-  <b>📊 Monitoring – 📈 Performance – ⚙️ Fiabilité</b>
-</p>
 
 </div>
 
