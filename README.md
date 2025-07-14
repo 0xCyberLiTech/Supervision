@@ -9,7 +9,7 @@
   <b>📊 Monitoring – 📈 Performance – ⚙️ Fiabilité</b>
 </p>
 
-[![Dernière version](https://img.shields.io/github/v/release/0xCyberLiTech/SUPERVISION?style=flat-square&color=blue)](https://github.com/0xCyberLiTech/SUPERVISION/releases/latest)
+[![Dernière version](https://img.shields.io/github/v/release/0xCyberLiTech/Supervision?style=flat-square&color=blue)](https://github.com/0xCyberLiTech/SUPERVISION/releases/latest)
 
 </div>
 
