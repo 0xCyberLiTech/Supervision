@@ -15,7 +15,6 @@
 ![Maintenance](https://img.shields.io/badge/statut-maintenu-brightgreen?style=flat-square)
 ![Licence](https://img.shields.io/github/license/0xCyberLiTech/SUPERVISION?style=flat-square&color=green)
 
-
 </div>
 
 ---
