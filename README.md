@@ -69,7 +69,7 @@ Légende des couleurs des boutons :
 | **Nagios** | Tutoriels et configurations pour la supervision avec Nagios. | [<img src="https://img.shields.io/badge/EXPLORER-orange?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Nagios) |
 | **Zabbix** | Tutoriels et configurations pour la supervision avec Zabbix. | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Zabbix) |
 | **Smokeping** | Tutoriels et configurations pour la supervision avec Smokeping. | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Smokeping) |
-| **ChechMK OMD** | Tutoriels et configurations pour la supervision avec CheckMK. | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Checkmk) |
+| **Checkmk OMD** | Tutoriels et configurations pour la supervision avec Checkmk OMD. | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Checkmk) |
 
 </div>
 
