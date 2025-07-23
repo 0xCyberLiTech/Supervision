@@ -39,6 +39,13 @@
 
 ---
 
+> Déploiement & configuration d’outils de supervision open-source : **Nagios**, **Zabbix**, **Graylog**, **Smokeping**, etc.
+
+![Langage](https://img.shields.io/badge/langage-Bash-blue)
+![OS](https://img.shields.io/badge/système-Debian%2012-success)
+![Licence](https://img.shields.io/github/license/0xCyberLiTech/Supervision)
+![Statut](https://img.shields.io/badge/status-en%20développement-orange)
+
 ### 💡 **Qu'est-ce que la Supervision ?**
 
 > La **supervision des infrastructures numériques**, ou **monitoring informatique**, est un processus essentiel qui consiste à surveiller, analyser et gérer en continu l'ensemble des composants d'un système d'information. L'objectif principal est de garantir leur **disponibilité**, leur **performance** et leur **sécurité**, en gardant un œil constant sur la santé de l'environnement numérique (serveurs, applications, réseaux, etc.).
