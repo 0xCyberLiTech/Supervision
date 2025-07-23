@@ -39,7 +39,7 @@
 
 ---
 
-> Déploiement & configuration d’outils de supervision open-source : **Nagios**, **Zabbix**, **Graylog**, **Smokeping**, etc.
+> Déploiement & configuration d’outils de supervision open-source : **Nagios**, **Zabbix**, **Graylog**, **Smokeping**, **Checkmk OMD**, etc.
 
 ### 💡 **Qu'est-ce que la Supervision ?**
 
