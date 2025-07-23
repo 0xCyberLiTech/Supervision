@@ -6,113 +6,111 @@
 
 <p align="center">
   <em>Un dépôt pédagogique sur la supervision des infrastructures numériques.</em><br>
-  <b>📊 Monitoring – 📈 Performance – ⚙️ Fiabilité</b>
+  <strong>📊 Monitoring – 📈 Performance – ⚙️ Fiabilité</strong>
 </p>
 
 [![Dernière version](https://img.shields.io/github/v/release/0xCyberLiTech/Supervision?style=flat-square&color=blue)](https://github.com/0xCyberLiTech/Supervision/releases/latest)
 [![Changelog](https://img.shields.io/badge/📄%20CHANGELOG-Supervision-blue)](https://github.com/0xCyberLiTech/Supervision/blob/main/CHANGELOG.md)
+[![Langage](https://img.shields.io/badge/langage-Bash-blue)](https://bash.org/)
+[![OS](https://img.shields.io/badge/système-Debian%2012-success)](https://www.debian.org/)
+[![Licence](https://img.shields.io/github/license/0xCyberLiTech/Supervision)](LICENSE)
+[![Statut](https://img.shields.io/badge/status-en%20développement-orange)]()
 
 </div>
 
 ---
 
-### 👨‍💻 **À propos de moi.**
+### 👨‍💻 À propos de moi
 
-> Ce dépôt constitue mon laboratoire numérique où je consigne rigoureusement mes apprentissages et expérimentations. Passionné par l'écosystème Linux > et la cybersécurité, je
-> documente mon parcours et mes projets sur mon GitHub. Vous y trouverez des guides pratiques sur la supervision (Zabbix,
-> Nagios), la conteneurisation (Docker), la cryptographie les algorithmes de chiffrement symétrique (AES, ChaCha20) et asymétrique (RSA, ECC).  et la
-> sécurisation de serveurs Debian. Mon objectif : partager mes connaissances de manière claire et pédagogique. N'hésitez pas à y jeter un œil : https://github.com/0xcyberlitech
+> Ce dépôt constitue mon **laboratoire numérique personnel** où je consigne rigoureusement mes apprentissages et expérimentations.  
+> Passionné par **Linux** et la **cybersécurité**, je partage ici des guides pratiques sur la supervision (Zabbix, Nagios), la conteneurisation (Docker), la cryptographie (AES, ChaCha20, RSA, ECC), et la sécurisation de serveurs Debian.  
+>  
+> 🎯 **Objectif** : rendre ces connaissances accessibles, claires et réutilisables.  
+> 🔗 [Mon GitHub principal](https://github.com/0xCyberLiTech)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,debian,bash,docker,nginx,grafana,prometheus,git,vim" />
+    <img src="https://skillicons.dev/icons?i=linux,debian,bash,docker,nginx,grafana,prometheus,git,vim" alt="Tech stack" />
   </a>
 </p>
 
 ---
 
-### 🎯 **Objectif de ce dépôt.**
+### 🎯 Objectif du dépôt
 
-> Ce dépôt a pour vocation de centraliser un ensemble de notions clés en supervision informatique. Il s’adresse aux passionnés, étudiants et professionnels souhaitant mieux comprendre les enjeux de la
-> surveillance des systèmes d'information, apprendre à mettre en place des outils de monitoring efficaces et se familiariser avec les concepts et bonnes pratiques pour maintenir la performance et la stabilité de
-> leurs environnements IT.
-
----
-
-> Déploiement & configuration d’outils de supervision open-source : **Nagios**, **Zabbix**, **Graylog**, **Smokeping**, **Checkmk OMD**, etc.
-
-### 💡 **Qu'est-ce que la Supervision ?**
-
-> La **supervision des infrastructures numériques**, ou **monitoring informatique**, est un processus essentiel qui consiste à surveiller, analyser et gérer en continu l'ensemble des composants d'un système d'information. L'objectif principal est de garantir leur **disponibilité**, leur **performance** et leur **sécurité**, en gardant un œil constant sur la santé de l'environnement numérique (serveurs, applications, réseaux, etc.).
+> Ce dépôt vise à centraliser les connaissances pratiques liées à la **supervision des systèmes d'information**. Il s’adresse à tous ceux souhaitant :
+> 
+> - Comprendre les enjeux du monitoring
+> - Déployer des outils efficaces (Zabbix, Nagios, etc.)
+> - Améliorer la **stabilité**, la **performance** et la **disponibilité** de leur infrastructure IT
 
 ---
 
-### 🚀 **Sommaire :**
+### 💡 Qu’est-ce que la supervision ?
+
+> La **supervision informatique** (ou *monitoring*) désigne l’ensemble des pratiques et outils permettant de :
+> 
+> - Contrôler l’état de santé des systèmes
+> - Anticiper les défaillances
+> - Détecter les anomalies
+> - Analyser les performances
+> 
+> Elle vise à garantir la **disponibilité**, la **sécurité**, et la **résilience** des services numériques.
 
 ---
 
-<div align="center" style="margin-bottom: 10px;">
-
-Légende des couleurs des boutons :
-
-🟢 **Actif** – Dépôt totalement accessible  
-🟠 **Partiel** – Dépôt partiellement accessible  
-🔴 **Inactif** – Dépôt inaccessible ou indisponible
-
-</div>
-
----
+### 🚀 Sommaire
 
 <div align="center">
 
-**Catégories des projets :**
-
-| Projet | Description | Accès Rapide |
-|:---:|:---|:---:|
-| **Nagios** | Tutoriels et configurations pour la supervision avec Nagios. | [<img src="https://img.shields.io/badge/EXPLORER-orange?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Nagios) |
-| **Zabbix** | Tutoriels et configurations pour la supervision avec Zabbix. | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Zabbix) |
-| **Smokeping** | Tutoriels et configurations pour la supervision avec Smokeping. | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Smokeping) |
-| **Checkmk OMD** | Tutoriels et configurations pour la supervision avec Checkmk OMD. | [<img src="https://img.shields.io/badge/EXPLORER-orange?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Checkmk) |
+| Projet            | Description                                                 | Accès rapide |
+|------------------|-------------------------------------------------------------|--------------|
+| **Nagios**        | Tutoriels et configurations pour la supervision classique  | [<img src="https://img.shields.io/badge/EXPLORER-orange?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Nagios) |
+| **Zabbix**        | Supervision complète avec tableaux de bord                 | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Zabbix) |
+| **Smokeping**     | Tests de latence et connectivité réseau                    | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Smokeping) |
+| **Checkmk OMD**   | Alternative moderne à Nagios pour la supervision système   | [<img src="https://img.shields.io/badge/EXPLORER-orange?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Checkmk) |
 
 </div>
 
 ---
 
-### 🎯 **Objectifs de la Supervision.**
+### 🎯 Objectifs de la supervision
 
-> * **Assurer la continuité de service :** Prévenir les pannes et minimiser les interruptions.
-> * **Optimiser les performances :** Identifier les goulots d'étranglement et optimiser les ressources.
-> * **Renforcer la sécurité :** Détecter les activités suspectes et les tentatives d'intrusion.
-> * **Anticiper les besoins futurs :** Planifier les évolutions de l'infrastructure de manière proactive.
-> * **Améliorer l'expérience utilisateur :** Garantir la fluidité et la disponibilité des services.
-
----
-
-### 🧩 **Composants Clés Supervisés.**
-
-> * **Réseau :** Switches, routeurs, firewalls, connectivité, latence, et débit.
-> * **Serveurs :** Utilisation du CPU, de la RAM, de l'espace disque et état général (physique ou virtuel).
-> * **Applications :** Disponibilité et temps de réponse des applications critiques (CRM, ERP, sites web).
-> * **Bases de données :** Temps de requête, fonctionnement et intégrité des données.
-> * **Services et processus :** Vérification du bon fonctionnement des services essentiels (serveur web, authentification).
+- ✅ **Continuité de service** : éviter les interruptions
+- 📈 **Optimisation des performances** : détecter les lenteurs
+- 🔒 **Renforcement de la sécurité** : repérer les intrusions
+- 🔁 **Prévision des besoins** : anticiper les charges
+- 😊 **Amélioration UX** : garantir fluidité et disponibilité
 
 ---
 
-### 🛠️ **Outils de Supervision Populaires.**
+### 🧩 Composants clés supervisés
 
-> Pour mener à bien ces tâches, les équipes s'appuient sur des logiciels spécialisés qui permettent de centraliser les données, de visualiser l'état de l'infrastructure via des tableaux de bord et de configurer des alertes. Parmi les plus connus, on retrouve :
-> * `Zabbix`
-> * `Nagios`
-> * `Centreon`
-> * `PRTG Network Monitor`
-> * `Prometheus`
+- **Réseau** : routeurs, firewalls, latence, bande passante
+- **Serveurs** : CPU, RAM, disque, état physique ou virtuel
+- **Applications** : CRM, ERP, sites web critiques
+- **Bases de données** : performance des requêtes, intégrité
+- **Services & processus** : serveur web, DNS, LDAP, etc.
 
 ---
 
-**Mise à jour :** Juillet 2025
+### 🛠️ Outils de supervision couverts
+
+> Ce dépôt inclut des exemples concrets avec :
+> 
+> - 🧰 `Zabbix`
+> - 🧰 `Nagios`
+> - 🧰 `Smokeping`
+> - 🧰 `Graylog`
+> - 🧰 `Checkmk`
+> - 🧰 `Prometheus` (à venir)
+
+---
+
+**📅 Mise à jour :** Juillet 2025
 
 ---
 
 <p align="center">
-  <b>🔒 Un guide proposé par <a href="https://github.com/0xCyberLiTech">0xCyberLiTech</a> • Pour des tutoriels accessibles à tous. 🔒</b>
+  <b>🔒 Un guide proposé par <a href="https://github.com/0xCyberLiTech">0xCyberLiTech</a> • Pour une supervision accessible et efficace 🔒</b>
 </p>
