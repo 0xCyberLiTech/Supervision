@@ -9,23 +9,17 @@
   <strong>📊 Monitoring – 📈 Performance – ⚙️ Fiabilité</strong>
 </p>
 
-[![Dernière version](https://img.shields.io/github/v/release/0xCyberLiTech/Supervision?style=flat-square&color=blue)](https://github.com/0xCyberLiTech/Supervision/releases/latest)
-[![Changelog](https://img.shields.io/badge/📄%20CHANGELOG-Supervision-blue)](https://github.com/0xCyberLiTech/Supervision/blob/main/CHANGELOG.md)
-[![Langage](https://img.shields.io/badge/langage-Bash-blue)](https://bash.org/)
-[![OS](https://img.shields.io/badge/système-Debian%2012-success)](https://www.debian.org/)
-[![Licence](https://img.shields.io/github/license/0xCyberLiTech/Supervision)](LICENSE)
-[![Statut](https://img.shields.io/badge/status-en%20développement-orange)]()
+## 🧭 Statut du projet Supervision
+
+[![📦 Dernière version](https://img.shields.io/github/v/release/0xCyberLiTech/Supervision?style=flat-square&color=blue)](https://github.com/0xCyberLiTech/Supervision/releases/latest)
+[![📄 CHANGELOG](https://img.shields.io/badge/%20Changelog-voir%20l’historique-blue?style=flat-square)](https://github.com/0xCyberLiTech/Supervision/blob/main/CHANGELOG.md)
+[![💻 Langage](https://img.shields.io/badge/Langage-Bash-1f6feb?style=flat-square)](https://bash.org/)
+[![🖥️ OS cible](https://img.shields.io/badge/Système-Debian%2012-success?style=flat-square)](https://www.debian.org/)
+[![📝 Licence](https://img.shields.io/github/license/0xCyberLiTech/Supervision?style=flat-square)](https://github.com/0xCyberLiTech/Supervision/blob/main/LICENSE)
+[![🚧 Statut](https://img.shields.io/badge/Statut-en%20développement-orange?style=flat-square)]()
+
 
 </div>
-
-## 📊 Statistiques du dépôt
-
-[![📦 Dernière version](https://img.shields.io/github/v/release/0xCyberLiTech/Cybersecurite?style=flat-square&color=blue)](https://github.com/0xCyberLiTech/Cybersecurite/releases/latest)
-[![📝 Licence](https://img.shields.io/github/license/0xCyberLiTech/Cybersecurite?style=flat-square&color=blueviolet)](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/LICENSE)
-[![👥 Contributeurs](https://img.shields.io/badge/👥%20Contributeurs-cliquez%20ici-007ec6?style=flat-square)](https://github.com/0xCyberLiTech/Cybersecurite/graphs/contributors)
-[![📈 Commits](https://img.shields.io/badge/📈%20Commits-historique%20complet-28a745?style=flat-square)](https://github.com/0xCyberLiTech/Cybersecurite/commits/main)
-[![📊 Trafic](https://img.shields.io/badge/📊%20Trafic-accès%20restreint-orange?style=flat-square)](https://github.com/0xCyberLiTech/Cybersecurite/graphs/traffic)
-
 
 ---
 
