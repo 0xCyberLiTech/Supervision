@@ -9,12 +9,11 @@
   <strong>📊 Monitoring – 📈 Performance – ⚙️ Fiabilité</strong>
 </p>
 
-[![📦 Dernière version](https://img.shields.io/github/v/release/0xCyberLiTech/Supervision?style=flat-square&color=blue)](https://github.com/0xCyberLiTech/Supervision/releases/latest)
-[![📄 CHANGELOG](https://img.shields.io/badge/%20Changelog-voir%20l’historique-blue?style=flat-square)](https://github.com/0xCyberLiTech/Supervision/blob/main/CHANGELOG.md)
-[![🖥️ OS cible](https://img.shields.io/badge/Système-Debian%2012-success?style=flat-square)](https://www.debian.org/)
-[![Contributeurs](https://img.shields.io/badge/Contributeurs-cliquez%20ici-blue)](https://github.com/0xCyberLiTech/Cybersecurite/graphs/contributors)
-[![Commits](https://img.shields.io/badge/Commits-historique%20complet-brightgreen)](https://github.com/0xCyberLiTech/Cybersecurite/commits/main)
-[![Trafic](https://img.shields.io/badge/Trafic-accès%20restreint-orange)](https://github.com/0xCyberLiTech/Cybersecurite/graphs/traffic)
+[![🔗 Profil GitHub](https://img.shields.io/badge/Profil-GitHub-181717?logo=github&style=flat-square)](https://github.com/0xCyberLiTech)
+[![📦 Dernière version](https://img.shields.io/github/v/release/0xCyberLiTech/Supervision?label=version&style=flat-square&color=blue)](https://github.com/0xCyberLiTech/Supervision/releases/latest)
+[![📄 CHANGELOG](https://img.shields.io/badge/📄%20Changelog-Supervision-blue?style=flat-square)](https://github.com/0xCyberLiTech/Supervision/blob/main/CHANGELOG.md)
+[![📂 Dépôts publics](https://img.shields.io/badge/Dépôts-publics-blue?style=flat-square)](https://github.com/0xCyberLiTech?tab=repositories)
+[![👥 Contributeurs](https://img.shields.io/badge/👥%20Contributeurs-cliquez%20ici-007ec6?style=flat-square)](https://github.com/0xCyberLiTech/Supervision/graphs/contributors)
 
 </div>
 
