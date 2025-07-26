@@ -13,7 +13,6 @@
 
 [![📦 Dernière version](https://img.shields.io/github/v/release/0xCyberLiTech/Supervision?style=flat-square&color=blue)](https://github.com/0xCyberLiTech/Supervision/releases/latest)
 [![📄 CHANGELOG](https://img.shields.io/badge/%20Changelog-voir%20l’historique-blue?style=flat-square)](https://github.com/0xCyberLiTech/Supervision/blob/main/CHANGELOG.md)
-[![💻 Langage](https://img.shields.io/badge/Langage-Bash-1f6feb?style=flat-square)](https://bash.org/)
 [![🖥️ OS cible](https://img.shields.io/badge/Système-Debian%2012-success?style=flat-square)](https://www.debian.org/)
 [![📝 Licence](https://img.shields.io/github/license/0xCyberLiTech/Supervision?style=flat-square)](https://github.com/0xCyberLiTech/Supervision/blob/main/LICENSE)
 [![🚧 Statut](https://img.shields.io/badge/Statut-en%20développement-orange?style=flat-square)]()
