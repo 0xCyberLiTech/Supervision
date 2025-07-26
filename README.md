@@ -9,8 +9,6 @@
   <strong>📊 Monitoring – 📈 Performance – ⚙️ Fiabilité</strong>
 </p>
 
-## 🧭 Statut du projet Supervision
-
 [![📦 Dernière version](https://img.shields.io/github/v/release/0xCyberLiTech/Supervision?style=flat-square&color=blue)](https://github.com/0xCyberLiTech/Supervision/releases/latest)
 [![📄 CHANGELOG](https://img.shields.io/badge/%20Changelog-voir%20l’historique-blue?style=flat-square)](https://github.com/0xCyberLiTech/Supervision/blob/main/CHANGELOG.md)
 [![🖥️ OS cible](https://img.shields.io/badge/Système-Debian%2012-success?style=flat-square)](https://www.debian.org/)
