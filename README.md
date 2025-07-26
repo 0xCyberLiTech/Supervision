@@ -14,6 +14,9 @@
 [![📦 Dernière version](https://img.shields.io/github/v/release/0xCyberLiTech/Supervision?style=flat-square&color=blue)](https://github.com/0xCyberLiTech/Supervision/releases/latest)
 [![📄 CHANGELOG](https://img.shields.io/badge/%20Changelog-voir%20l’historique-blue?style=flat-square)](https://github.com/0xCyberLiTech/Supervision/blob/main/CHANGELOG.md)
 [![🖥️ OS cible](https://img.shields.io/badge/Système-Debian%2012-success?style=flat-square)](https://www.debian.org/)
+[![Contributeurs](https://img.shields.io/badge/Contributeurs-cliquez%20ici-blue)](https://github.com/0xCyberLiTech/Cybersecurite/graphs/contributors)
+[![Commits](https://img.shields.io/badge/Commits-historique%20complet-brightgreen)](https://github.com/0xCyberLiTech/Cybersecurite/commits/main)
+[![Trafic](https://img.shields.io/badge/Trafic-accès%20restreint-orange)](https://github.com/0xCyberLiTech/Cybersecurite/graphs/traffic)
 
 </div>
 
