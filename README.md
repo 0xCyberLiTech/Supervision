@@ -74,7 +74,7 @@
 
 | Projet            | Description                                                 | Accès rapide |
 |------------------|-------------------------------------------------------------|--------------|
-| **Nagios**        | Tutoriels et configurations pour la supervision classique  | [<img src="https://img.shields.io/badge/EXPLORER-orange?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Nagios) |
+| **Nagios**        | Tutoriels et configurations pour la supervision classique  | [<img src="https://img.shields.io/badge/EXPLORER-orange?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Nagios/blob/main/README.md) |
 | **Zabbix**        | Supervision complète avec tableaux de bord                 | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Zabbix) |
 | **Smokeping**     | Tests de latence et connectivité réseau                    | [<img src="https://img.shields.io/badge/EXPLORER-brightgreen?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Smokeping) |
 | **Checkmk OMD**   | Alternative moderne à Nagios pour la supervision système   | [<img src="https://img.shields.io/badge/EXPLORER-orange?style=for-the-badge&logo=github&logoColor=white">](https://github.com/0xCyberLiTech/Checkmk) |
