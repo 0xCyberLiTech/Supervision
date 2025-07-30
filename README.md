@@ -19,10 +19,6 @@
 
 ---
 
-[![Mon Portfolio](./button.svg)](https://ton-site-ou-repo)
-
----
-
 ### 👨‍💻 **À propos de moi.**
 
 > Bienvenue dans mon **laboratoire numérique personnel** dédié à l’apprentissage et à la vulgarisation de la cybersécurité.  
