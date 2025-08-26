@@ -8,10 +8,7 @@
   
   <br></br>  
   
-  <p align="center">
-    <em>Un dépôt pédagogique sur la supervision des infrastructures numériques.</em><br>
-    <strong>📊 Monitoring – 📈 Performance – ⚙️ Fiabilité</strong>
-  </p>
+  <h2>Laboratoire numérique pour la cybersécurité, Linux & IT</h2>
 
   <p align="center">
       <a href="https://0xcyberlitech.github.io/">
