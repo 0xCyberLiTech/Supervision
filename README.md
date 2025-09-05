@@ -85,7 +85,7 @@ Le contenu est structuré, accessible et optimisé SEO pour répondre aux besoin
 
 <div align="center">
 
-| Projet          | Description                                               | Accès rapide |
+| Projet          | Description                                               | Accès rapide                                                                                                                                                                |
 |-----------------|-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nagios**      | Tutoriels et configurations pour la supervision classique | [![Explorer](https://img.shields.io/badge/EXPLORER-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/Nagios/blob/main/README.md)    |
 | **Zabbix**      | Supervision complète avec tableaux de bord                | [![Explorer](https://img.shields.io/badge/EXPLORER-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/Zabbix/blob/main/README.md)    |
