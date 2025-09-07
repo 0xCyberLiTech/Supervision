@@ -94,7 +94,7 @@ Le contenu est structuré, accessible et optimisé SEO pour répondre aux besoin
 | **Nagios**      | Tutoriels et configurations pour la supervision classique | [![Explorer](https://img.shields.io/badge/EXPLORER-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/Nagios/blob/main/README.md)      |
 | **Zabbix**      | Supervision complète avec tableaux de bord                | [![Explorer](https://img.shields.io/badge/EXPLORER-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/Zabbix/blob/main/README.md)      |
 | **Smokeping**   | Tests de latence et connectivité réseau                   | [![Explorer](https://img.shields.io/badge/EXPLORER-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/Smokeping/blob/main/README.md)   |
-| **Checkmk OMD** | Alternative moderne à Nagios pour la supervision système  | [![Explorer](https://img.shields.io/badge/EXPLORER-F1C232?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/Supervision/blob/main/README.md) |
+| **Checkmk OMD** | Alternative moderne à Nagios pour la supervision système  | [![Explorer](https://img.shields.io/badge/EXPLORER-F1C232?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCyberLiTech/Checkmk/blob/main/README.md) |
 | **Prometheus**  | Alternative moderne à Nagios pour la supervision système  | [<img src="https://img.shields.io/badge/EXPLORER-red?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/0xCyberLiTech/Supervision/blob/main/README.md)   |
 
 </div>
