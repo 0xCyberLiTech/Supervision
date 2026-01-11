@@ -141,6 +141,6 @@ Le contenu est structuré, accessible et optimisé SEO pour répondre aux besoin
 </div>
 
 <p align="center">
-  <b>🔐 Un guide proposé par <a href="https://github.com/0xCyberLiTech">0xCyberLiTech</a> • Pour une cybersécurité compréhensible et efficace. 🔐</b>
+  <b>🔐 Un guide proposé par <a href="https://0xcyberlitech.com/">0xCyberLiTech</a> • Pour une cybersécurité compréhensible et efficace. 🔐</b>
 </p>
 
