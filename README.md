@@ -55,6 +55,7 @@ journalctl --disk-usage
 - **Niveau 2 — Repères Officiels (Ports IANA, Fichiers Debian &amp; Commandes de Validation) :** **Protocoles normalisés :** `ICMP` (Latence et perte) · `SNMPv3` (`UDP 161` en mode `authPriv` SHA/AES) · `Syslog RFC 5424` (`TCP/TLS 6514`) · Agents télémétriques (`10050/tcp`, `6556/tcp`, `5666/tcp`).
 - **Niveau 3 — Diagnostic d'Incidents &amp; Ingénierie Avancée :** **Diagnostic & Architecture :** En environnement de production, bannissez `SNMPv1/v2c` (chaîne de communauté transmise en clair sur le réseau) au profit exclusif de **SNMPv3 (`authPriv`)**. Combinez systématiquement seuils statiques d'alerte (Disque > 85 %) et analyse de tendance pour anticiper les saturations.
 - **Sources de Vérité Officielles Éditeurs &amp; Standards :** [Guide ANSSI — Sécurisation de l'Administration & Supervision](https://cyber.gouv.fr/) &nbsp;·&nbsp; [RFC 3414 (SNMPv3 USM)](https://datatracker.ietf.org/doc/html/rfc3414)
+- **Livres Blancs &amp; 67 Podcasts Audio R&amp;D :** [Portail 0xCyberLiTech](https://0xcyberlitech.com/) &nbsp;·&nbsp; [Livre Blanc SOC Cockpit v5.5](https://0xcyberlitech.com/soc-rd.html) &nbsp;·&nbsp; [Livre Blanc JARVIS Mark-VII](https://0xcyberlitech.com/jarvis-rd.html) &nbsp;·&nbsp; [Blueprint Logiciel &amp; Matériel RTX 5080](https://0xcyberlitech.com/blueprint-jarvis.html)
 
 </details>
 <!-- CIEL-PEDAGOGY-END -->
