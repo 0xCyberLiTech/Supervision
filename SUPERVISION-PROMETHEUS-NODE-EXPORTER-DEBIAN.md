@@ -72,7 +72,6 @@ Contrairement aux moteurs classiques par sondes d'état (Nagios), Prometheus fon
 - **`prometheus` (Port `9090/TCP`) :** Serveur central qui moissonne (*scrape*) les métriques toutes les 15 secondes, évalue les règles d'alerte en langage **PromQL** et alimente les tableaux de bord **Grafana**.
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#091326', 'primaryTextColor': '#f8fafc', 'primaryBorderColor': '#00d9ff', 'lineColor': '#00d9ff'}}}%%
 flowchart LR
     PROM["[TSDB] Serveur Prometheus :9090<br/>Moteur PromQL & Alerting"] -->|"Scrape HTTP (15s)"| NODE1["[NODE 1] Debian 13 Trixie<br/>Node Exporter :9100"]
     PROM -->|"Scrape HTTP (15s)"| NODE2["[NODE 2] Debian 14 Forky<br/>Node Exporter :9100"]
